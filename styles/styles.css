@@ -1,0 +1,77 @@
+body {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    margin: 0 auto;
+    max-width: 800px;
+    padding: 70px;
+	background: url('img.jpg')  no-repeat;
+	background-size: cover;
+	background-position:center;
+    transition: background 0.3s ease;
+}
+
+header {
+    color: #8B008B;
+    text-align: center;
+    margin-bottom: 40px; 
+}
+
+blockquote {
+    font-style: italic;
+    text-align: left;
+}
+
+.buttons a {
+    display: block; /* Düğmeleri blok element olarak ayarlar */
+    width: 100%;
+    text-align: center;
+    padding: 10px;
+    margin: 10px 0; /* Düğmeler arasında boşluk bırakır */
+    background-color: #8B008B;
+    color: #fff;
+    text-decoration: none;
+    border-radius: 5px; /* Köşeleri yuvarlar */
+    transition: background-color 0.3s ease; /* Arka plan rengindeki geçiş efekti */
+}
+
+
+.transition-button:hover {
+    background-color: #4B0082; /* Fare üzerine geldiğinde arka plan rengi değişir */
+}
+
+.contact-info, .schedule, .announcements {
+    margin-bottom: 20px;
+    background-color: #fff;
+    padding: 20px;
+    border-radius: 5px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1); /* Hafif bir gölge ekleme */
+}
+
+.contact-info p, .schedule ul, .announcements ul, .login ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+.contact-info h2, .schedule h2, .announcements h2, .login h2 {
+    margin-bottom: 10px;
+    color: #8B008B;
+}
+
+footer {
+    font-weight: bold;
+    text-align: center;
+    color: #8B008B;
+    margin-top: 40px; /* Sayfanın en üstünden itibaren boşluk bırakır */
+}
+
+/* ----- Header ve Footer İçin Geçiş Efekti ----- */
+header, .contact-info, .schedule, .announcements, .login  footer {
+    transition: opacity 0.3s ease;
+}
+
+header, footer {
+    opacity: 0.9;
+}
+
+header:hover, footer:hover, .contact-info:hover, .schedule:hover, .announcements:hover, .login:hover {
+    opacity: 1;  /* Fare üzerine gelindiğinde tam saydamlık */
+}
