@@ -1,4 +1,4 @@
-## website
+# website
 ### TR 
 Şu anda direksiyon eğitmeni olarak çalışan annem için bir web sitesi oluşturdum. Bu proje, HTML ve CSS alanında kendimi geliştirme yolculuğumun bir parçasıydı. Ayrıca web tasarım becerilerimi geliştirmeyi ve annemin öğrencileri için faydalı bir kaynak sağlamayı hedefliyordum.
 
