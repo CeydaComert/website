@@ -1,9 +1,9 @@
 ## website
-#TR 
+# TR 
 Şu anda direksiyon eğitmeni olarak çalışan annem için bir web sitesi oluşturdum. Bu proje, HTML ve CSS alanında kendimi geliştirme yolculuğumun bir parçasıydı. Ayrıca web tasarım becerilerimi geliştirmeyi ve annemin öğrencileri için faydalı bir kaynak sağlamayı hedefliyordum.
 
 
-#ENG
+# ENG
 I created a website for my mother, who is currently working as a driving instructor. This project was a part of my self-development journey in HTML and CSS. Additionally, I aimed to enhance my web design skills and provide a useful resource for her students.
 
 
