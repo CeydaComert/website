@@ -1,0 +1,111 @@
+
+<!DOCTYPE html>
+<html lang="tr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Ders Programı - Yeliz Hocanız</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body bgcolor="#E6E6FA">
+    <header>
+        <h1> <a href = "file:///C:/Users/sleep/Desktop/javaja/index.html" > Ders Programı </a></h1>
+        <p>Ders programı her hafta güncellenmektedir. </p>
+		
+    </header>
+    
+    <section class="schedule">
+        <h2>Haftalık Ders Programı</h2>
+        
+           
+		<table style="border:8px solid #D8BFD8" width="700px" height="150px">
+			<tr>
+				<thead> 
+					<th bgcolor= "#BA55D3"> Program </th>
+					<th bgcolor= "#BA55D3"> Pazartesi </th>
+					<th bgcolor= "#BA55D3">Salı </th>
+					<th bgcolor= "#BA55D3"> Çarşamba </th>
+					<th bgcolor= "#BA55D3">Perşembe </th>
+					<th bgcolor= "#BA55D3">Cuma </th>
+					<th bgcolor= "#BA55D3">Cumartesi </th>
+			</tr>
+				</thead>
+				
+				<tbody>
+					<tr>
+						<td bgcolor= "#E6E6FA"> 09.00-10.00 </td>
+						<td bgcolor= "#DDA0DD">ceyda </td>
+						<td bgcolor= "#DDA0DD">ceyda </td>
+						<td bgcolor= "#DA70D6">mustafa </td>
+						<td bgcolor= "#9370DB">ömer </td>
+						<td bgcolor= "#9370DB">ömer </td>
+						<td bgcolor= "#8A2BE2">zeynep </td>
+					</tr>
+					<tr>
+					<td bgcolor= "#E6E6FA">10.00-11.00 </td>
+						<td bgcolor= "#DDA0DD">ceyda </td>
+						<td bgcolor= "#DA70D6">mustafa </td>
+						<td bgcolor= "#DA70D6">mustafa </td>
+						<td bgcolor= "#9370DB">ömer </td>
+						<td bgcolor= "#9370DB">ömer </td>
+						<td bgcolor= "#8A2BE2"> zeynep </td>
+					</tr>
+					<tr>
+					<td bgcolor= "#E6E6FA">11.00-12.00 </td>
+						<td bgcolor= "#9370DB">ömer </td>
+						<td bgcolor= "#DA70D6">mustafa </td>
+						<td bgcolor= "#DDA0DD">ceyda </td>
+						<td bgcolor= "#8A2BE2"> zeynep </td>
+						<td bgcolor= "#8A2BE2"> zeynep </td>
+						<td bgcolor= "#DDA0DD">ceyda </td>
+					</tr>
+					<tr>
+					<td bgcolor= "#E6E6FA">13.00-14.00 </td>
+						<td bgcolor= "#9370DB">ömer </td>
+						<td bgcolor= "#DDA0DD">ceyda </td>
+						<td bgcolor= "#DA70D6">mustafa </td>
+						<td bgcolor= "#8A2BE2"> zeynep </td>
+						<td bgcolor= "#8A2BE2"> zeynep </td>
+						<td bgcolor= "#DDA0DD">ceyda </td>
+					</tr>
+					<tr>
+					<td bgcolor= "#E6E6FA">14.00-15.00 </td>
+						<td bgcolor= "#8A2BE2"> zeynep </td>
+						<td bgcolor= "#8A2BE2"> zeynep </td>
+						<td bgcolor= "#DDA0DD">ceyda </td>
+						<td bgcolor= "#DA70D6">mustafa </td>
+						<td bgcolor= "#DA70D6">mustafa </td>
+						<td bgcolor= "#9370DB">ömer </td>
+					</tr>
+					<tr>
+					<td bgcolor= "#E6E6FA">15.00-16.00 </td>
+						<td bgcolor= "#8A2BE2"> zeynep </td>
+						<td bgcolor= "#DDA0DD">ceyda </td>
+						<td bgcolor= "#DA70D6">mustafa </td>
+						<td bgcolor= "#DA70D6">mustafa </td>
+						<td bgcolor= "#9370DB">ömer </td>
+						<td bgcolor= "#8A2BE2"> zeynep </td>
+					</tr>
+					<tr>
+					<td bgcolor= "#E6E6FA">16.00-17.00 </td>
+						<td bgcolor= "#DA70D6">mustafa </td>
+						<td bgcolor= "#DA70D6">mustafa </td>
+						<td bgcolor= "#DDA0DD">ceyda </td>
+						<td bgcolor= "#9370DB">ömer </td>
+						<td bgcolor= "#9370DB">ömer </td>
+						<td bgcolor= "#8A2BE2"> zeynep </td>
+					</tr>
+					<tr>
+					<td bgcolor= "#E6E6FA">17.00-18.00 </td>
+						<td bgcolor= "#DA70D6">mustafa </td>
+						<td bgcolor= "#DDA0DD">ceyda </td>
+						<td bgcolor= "#DDA0DD">ceyda </td>
+						<td bgcolor= "#9370DB">ömer </td>
+						<td bgcolor= "#9370DB">ömer </td>
+						<td bgcolor= "#8A2BE2"> zeynep </td>
+					</tr>
+		</table>	
+      
+    </section>
+</body>
+</html>

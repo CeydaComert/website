@@ -1,0 +1,54 @@
+
+<!DOCTYPE html>
+<html lang="tr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Yeliz Hocanız - Sürücü Kursu</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+ <body bgcolor="#E6E6FA">
+    <header style="color: #E6E6FA;">
+	
+        <h1> YELİZ HOCANIZ İLE YOLLARA MERHABA! </h1>
+        <p> Önce beni sonra şeridini takip et. </p>
+		
+    </header>
+	
+    <nav class="buttons">
+		
+
+		<table width="700px" height="150px">
+			<tr>
+				<td><a href="iletisim.html" class="transition-button">İletişim</a></td>
+				<td><a href="program.html" class="transition-button">Ders Programı</a> </td>
+				<td><a href="duyurular.html" class="transition-button">Duyurular</a> </td>
+				<td><a href="girisyap.html" class="transition-button">Giriş Yap</a></td>
+			</tr>
+		</table>
+	</nav>
+	
+	<section class="quote">
+		<table width="900px" height="150px">
+			<tr>
+				<td>
+				<img src= "C:\Users\sleep\Pictures\Screenshots\ödev 2\yelizhoca2.jpg" 
+				width="300" height="450" />
+				</td>
+	
+			<td>
+				<blockquote style="color: #E6E6FA">
+				"Güvenli ve kaliteli derslerle yola çıkmak için muhakkak aynalarınızı kontrol edin."
+				</blockquote>
+				
+			</td>
+		</table>
+    </section>
+
+
+    <footer>
+	Copyright © 2023 | YelizHocanız.com | Tüm Hakları Saklıdır.
+	</footer>
+	
+</body>
+</html>

@@ -1,0 +1,25 @@
+
+<!DOCTYPE html>
+<html lang="tr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Duyurular - Yeliz Hocanız</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body bgcolor="#E6E6FA">
+    <header>
+        <h1><a href = "file:///C:/Users/sleep/Desktop/javaja/index.html" > Duyurular </a></h1>
+        <p>En güncel haberler ve duyurular burada!</p>
+    </header>
+    
+    <section class="announcements">
+        <h2>Güncel Duyurular</h2>
+        <ul>
+            <li>Sürücü belgesi sınav tarihleri güncellendi.</li>
+            <li>Yeni öğrenci kayıtları başladı.</li>
+            <li>Trafik kuralları semineri 5 Ekim'de yapılacak.</li>
+        </ul>
+    </section>
+</body>
+</html>

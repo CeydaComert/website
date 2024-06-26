@@ -1,0 +1,23 @@
+
+<!DOCTYPE html>
+<html lang="tr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>İletişim - Yeliz Hocanız</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body bgcolor="#E6E6FA">
+    <header>
+        <h1> <a href = "file:///C:/Users/sleep/Desktop/javaja/index.html" > İletişim </a>
+		</h1>
+        <p> </p>
+    </header>
+    
+    <section class="contact-info">
+        <h2>H. Yeliz Cömert</h2>
+        <p>Telefon: 544 596 01 26</p>
+        <p>E-posta: yelizgumus-17@hotmail.com</p>
+    </section>
+</body>
+</html>
